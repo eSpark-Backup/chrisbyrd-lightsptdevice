@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Documents\chrisbyrd-lightsptdevice\Design Files\LightSPT-Device-v1.0\Light_spt_device(double_sided).PcbDoc
-Date         : 7/26/2023
-Time         : 6:50:17 PM
+Date         : 7/27/2023
+Time         : 7:03:14 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 49.47%
+    Routing completion, 92.33%
     Connections, 378
-    Connections routed, 187
-    Connections remaining, 191
+    Connections routed, 349
+    Connections remaining, 29
 count : 4
