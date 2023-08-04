@@ -250,10 +250,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Light_spt_device_v-1.0\Design Rule Check - Light_spt_device(double_sided).html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
