@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Light_SPT_Device_v1.0.PrjPcb]
+   Generated File[Light_SPT_Device_v1.0.TXT]
+   Generated File[Light_SPT_Device_v1.0.LDP]
+   Generated File[Light_SPT_Device_v1.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:20:26 PM On 8/9/2023
