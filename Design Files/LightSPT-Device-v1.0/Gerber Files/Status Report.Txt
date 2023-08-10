@@ -1,11 +1,12 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [Light_SPT_Device_v1.0.PrjPcb]
-   Generated File[Pick Place for Light_SPT_Device_v1.0.txt]
-   Generated File[Pick Place for Light_SPT_Device_v1.0.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Light_SPT_Device_v1.0.PrjPcb]
+   Generated File[Light_SPT_Device_v1.0.TXT]
+   Generated File[Light_SPT_Device_v1.0.LDP]
+   Generated File[Light_SPT_Device_v1.0.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 4:41:47 PM On 8/10/2023
+Finished Output Generation At 6:58:46 PM On 8/10/2023
