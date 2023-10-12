@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Light_SPT_Device_v1.0.PrjPcb]
+   Generated File[Pick Place for Light_SPT_Device_v1.0.txt]
+   Generated File[Pick Place for Light_SPT_Device_v1.0.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:32:59 PM On 10/12/2023
