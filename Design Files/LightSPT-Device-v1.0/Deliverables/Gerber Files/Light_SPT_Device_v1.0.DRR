@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Light_SPT_Device_v1.0.PcbDoc   10/12/2023  9:30:10 PM
+NCDrill File Report For: Light_SPT_Device_v1.0.PcbDoc   2/16/2024  5:38:18 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,14 +7,14 @@ ASCII RoundHoles File : Light_SPT_Device_v1.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             269       PTH        33.04inch (839.16mm)
-T2      40mil (1.02mm)                                            Round             5         PTH        0.90inch (22.86mm)
+T1      12mil (0.3mm)                                             Round             270       PTH        33.04inch (839.33mm)
+T2      40mil (1.02mm)                                            Round             5         PTH        1.00inch (25.40mm)
 T3      43mil (1.1mm)                                             Round             2         PTH        0.18inch (4.50mm)
 T4      51mil (1.3mm)                                             Round             2         PTH        0.28inch (7.01mm)
 T5      63mil (1.6mm)                                             Round             17        PTH        4.03inch (102.46mm)
 T6      30mil (0.75mm)                                            Round             2         NPTH       0.33inch (8.50mm)
 T7      83mil (2.1mm)                                             Round             3         NPTH       2.36inch (59.87mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              300
+Totals                                                                              301
 
 Total Processing Time (hh:mm:ss) : 00:00:00
