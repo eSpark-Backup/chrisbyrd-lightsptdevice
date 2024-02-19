@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\eSpark-Consultants\chrisbyrd-lightsptdevice\Design Files\LightSPT-Device-v1.0\Light_SPT_Device_v1.0.PcbDoc
+DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\chrisbyrd-lightsptdevice\Design Files\LightSPT-Device-v1.0\Light_SPT_Device_v1.0.PcbDoc
 RuleKind=Width|RuleName=Width_2|Scope=Board|Minimum=55.00
 RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=55.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
